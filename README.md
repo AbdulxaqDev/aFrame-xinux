@@ -1,4 +1,4 @@
-# 3D Animation of Xinux.
+# 3D Animation of Xinux logo.
 ___
 For animation, [A-Framejs](https://aframe.io/) and [Three.js](https://threejs.org/) Javascript frameworks are used
 
