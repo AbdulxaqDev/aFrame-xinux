@@ -1,0 +1,17 @@
+*, :after, :before{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+#link{ 
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    margin: 20px 0 0 20px;
+    flex-direction: column;
+ }
+ #link button{
+    margin-top: 5px;
+    width: 130px;
+}
